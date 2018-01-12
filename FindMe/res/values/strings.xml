@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Find ME</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mm">Main Menu</string>
+    <string name="e">Easy</string>
+    <string name="n">Normal</string>
+    <string name="h">Hard</string>
+    <string name="title_activity_easy">Easy</string>
+    <string name="info">Find the number between 1 to 50</string>
+    <string name="hint">Enter the no</string>
+    <string name="bc">Click me</string>
+    <string name="title_activity_normal">Normal</string>
+    <string name="title_activity_hard">Hard</string>
+    <string name="infon">Find the number between 1 to 100</string>
+    <string name="infoh">Find the number between 1to 500</string>
+
+</resources>
